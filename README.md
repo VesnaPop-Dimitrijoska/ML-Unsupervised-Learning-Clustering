@@ -7,11 +7,12 @@ This is Unsupervised Learning model - Clustering on Earthquakes dataset containi
 #
 ---
 # Table of Contents:
-
   1. Data Preprocessing 
-  2. Model Training
-  3. Model Evaluation
-  4. Conclusion and Results
+  2. Model Training - Agglomerative Clustering
+  3. Model Training - DBScan Clustering
+  4. Model Training - KMeans Clustering
+  5. Model Evaluation
+  6. Conclusion and Results
 ---
 #
 
